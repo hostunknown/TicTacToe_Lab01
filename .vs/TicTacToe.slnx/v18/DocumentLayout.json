@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProjectsCPP\\TicTacToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92B7F288-8B4C-4D7C-B656-691C6C36123C}|TicTacToe.vcxproj|C:\\ProjectsCPP\\TicTacToe\\Point.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92B7F288-8B4C-4D7C-B656-691C6C36123C}|TicTacToe.vcxproj|solutionrelative:Point.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B7F288-8B4C-4D7C-B656-691C6C36123C}|TicTacToe.vcxproj|C:\\ProjectsCPP\\TicTacToe\\prompts_lab01.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{92B7F288-8B4C-4D7C-B656-691C6C36123C}|TicTacToe.vcxproj|solutionrelative:prompts_lab01.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B7F288-8B4C-4D7C-B656-691C6C36123C}|TicTacToe.vcxproj|C:\\ProjectsCPP\\TicTacToe\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{92B7F288-8B4C-4D7C-B656-691C6C36123C}|TicTacToe.vcxproj|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B7F288-8B4C-4D7C-B656-691C6C36123C}|TicTacToe.vcxproj|C:\\ProjectsCPP\\TicTacToe\\CellState.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92B7F288-8B4C-4D7C-B656-691C6C36123C}|TicTacToe.vcxproj|solutionrelative:CellState.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B7F288-8B4C-4D7C-B656-691C6C36123C}|TicTacToe.vcxproj|C:\\ProjectsCPP\\TicTacToe\\Listener.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92B7F288-8B4C-4D7C-B656-691C6C36123C}|TicTacToe.vcxproj|solutionrelative:Listener.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B7F288-8B4C-4D7C-B656-691C6C36123C}|TicTacToe.vcxproj|C:\\ProjectsCPP\\TicTacToe\\Painter.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92B7F288-8B4C-4D7C-B656-691C6C36123C}|TicTacToe.vcxproj|solutionrelative:Painter.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B7F288-8B4C-4D7C-B656-691C6C36123C}|TicTacToe.vcxproj|C:\\ProjectsCPP\\TicTacToe\\GameEngine.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92B7F288-8B4C-4D7C-B656-691C6C36123C}|TicTacToe.vcxproj|solutionrelative:GameEngine.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B7F288-8B4C-4D7C-B656-691C6C36123C}|TicTacToe.vcxproj|C:\\ProjectsCPP\\TicTacToe\\TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92B7F288-8B4C-4D7C-B656-691C6C36123C}|TicTacToe.vcxproj|solutionrelative:TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "prompts_lab01.md",
+              "DocumentMoniker": "C:\\ProjectsCPP\\TicTacToe\\prompts_lab01.md",
+              "RelativeDocumentMoniker": "prompts_lab01.md",
+              "ToolTip": "C:\\ProjectsCPP\\TicTacToe\\prompts_lab01.md",
+              "RelativeToolTip": "prompts_lab01.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-04T20:29:18.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\ProjectsCPP\\TicTacToe\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\ProjectsCPP\\TicTacToe\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-04T20:29:09.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Point.hpp",
+              "DocumentMoniker": "C:\\ProjectsCPP\\TicTacToe\\Point.hpp",
+              "RelativeDocumentMoniker": "Point.hpp",
+              "ToolTip": "C:\\ProjectsCPP\\TicTacToe\\Point.hpp",
+              "RelativeToolTip": "Point.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-04T20:28:53.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CellState.hpp",
+              "DocumentMoniker": "C:\\ProjectsCPP\\TicTacToe\\CellState.hpp",
+              "RelativeDocumentMoniker": "CellState.hpp",
+              "ToolTip": "C:\\ProjectsCPP\\TicTacToe\\CellState.hpp",
+              "RelativeToolTip": "CellState.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-04T20:28:37.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Listener.hpp",
+              "DocumentMoniker": "C:\\ProjectsCPP\\TicTacToe\\Listener.hpp",
+              "RelativeDocumentMoniker": "Listener.hpp",
+              "ToolTip": "C:\\ProjectsCPP\\TicTacToe\\Listener.hpp",
+              "RelativeToolTip": "Listener.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-04T20:28:21.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Painter.hpp",
+              "DocumentMoniker": "C:\\ProjectsCPP\\TicTacToe\\Painter.hpp",
+              "RelativeDocumentMoniker": "Painter.hpp",
+              "ToolTip": "C:\\ProjectsCPP\\TicTacToe\\Painter.hpp",
+              "RelativeToolTip": "Painter.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-04T20:28:06.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameEngine.hpp",
+              "DocumentMoniker": "C:\\ProjectsCPP\\TicTacToe\\GameEngine.hpp",
+              "RelativeDocumentMoniker": "GameEngine.hpp",
+              "ToolTip": "C:\\ProjectsCPP\\TicTacToe\\GameEngine.hpp",
+              "RelativeToolTip": "GameEngine.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-04T20:27:52.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicTacToe.cpp",
+              "DocumentMoniker": "C:\\ProjectsCPP\\TicTacToe\\TicTacToe.cpp",
+              "RelativeDocumentMoniker": "TicTacToe.cpp",
+              "ToolTip": "C:\\ProjectsCPP\\TicTacToe\\TicTacToe.cpp",
+              "RelativeToolTip": "TicTacToe.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-04T20:26:14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

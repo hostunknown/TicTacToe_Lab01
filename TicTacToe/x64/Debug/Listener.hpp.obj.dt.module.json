@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "TicTacToe\\x64\\Debug\\Listener.obj",
+            "outputs": [
+                "TicTacToe\\x64\\Debug\\Listener.hpp.obj.dt.module.json",
+                "TicTacToe\\x64\\Debug\\Listener.hpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

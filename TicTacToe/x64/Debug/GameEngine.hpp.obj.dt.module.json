@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "TicTacToe\\x64\\Debug\\GameEngine.obj",
+            "outputs": [
+                "TicTacToe\\x64\\Debug\\GameEngine.hpp.obj.dt.module.json",
+                "TicTacToe\\x64\\Debug\\GameEngine.hpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

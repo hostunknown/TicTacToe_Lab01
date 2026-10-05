@@ -13,3 +13,16 @@ Jocul clasic X și O (Tic-Tac-Toe) jucat pe o tablă de 3x3. Doi jucători (X ș
 - **GameEngine (clasă):** Motorul principal care controlează fluxul jocului.
 - **Painter (clasă):** Responsabil de afișarea tablei și a mesajelor în consolă.
 - **Listener (clasă):** Preluarea input-ului de la tastatură de la utilizator.
+
+
+## Instrucțiuni de construcție și rulare (Build)
+Pentru a compila și rula proiectul manual folosind CMake:
+
+1. Deschide terminalul în folderul rădăcină al proiectului.
+2. Creează un director pentru build și intră în el:
+   ```powershell
+   mkdir build
+   cd build
+   cmake ..
+   cmake --build . --config Release
+   .\Release\TicTacToe.exe

@@ -1,0 +1,3 @@
+C:/ProjectsCPP/TicTacToe/build/CMakeFiles/TicTacToe.dir
+C:/ProjectsCPP/TicTacToe/build/CMakeFiles/ALL_BUILD.dir
+C:/ProjectsCPP/TicTacToe/build/CMakeFiles/ZERO_CHECK.dir

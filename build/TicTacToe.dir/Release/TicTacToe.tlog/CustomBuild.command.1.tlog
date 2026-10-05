@@ -1,0 +1,10 @@
+^C:\PROJECTSCPP\TICTACTOE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/ProjectsCPP/TicTacToe -BC:/ProjectsCPP/TicTacToe/build --check-stamp-file C:/ProjectsCPP/TicTacToe/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -365,6 +365,9 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="C:\ProjectsCPP\TicTacToe\main.cpp" />
+    <ClCompile Include="C:\ProjectsCPP\TicTacToe\GameEngine.cpp" />
+    <ClCompile Include="C:\ProjectsCPP\TicTacToe\Listener.cpp" />
+    <ClCompile Include="C:\ProjectsCPP\TicTacToe\Painter.cpp" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

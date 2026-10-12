@@ -18,11 +18,18 @@ Jocul clasic X și O (Tic-Tac-Toe) jucat pe o tablă de 3x3. Doi jucători (X ș
 ## Instrucțiuni de construcție și rulare (Build)
 Pentru a compila și rula proiectul manual folosind CMake:
 
-1. Deschide terminalul în folderul rădăcină al proiectului.
-2. Creează un director pentru build și intră în el:
-   ```powershell
-   mkdir build
-   cd build
-   cmake ..
-   cmake --build . --config Release
-   .\Release\TicTacToe.exe
+USING Developer Command Prompt for VS
+
+cd ..
+
+rmdir /s /q build
+
+mkdir build
+
+cd build
+
+cmake -A x64 ..
+
+cmake --build . --config Release
+
+Release\TicTacToe.exe

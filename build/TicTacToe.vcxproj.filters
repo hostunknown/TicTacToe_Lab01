@@ -4,6 +4,15 @@
     <ClCompile Include="C:\ProjectsCPP\TicTacToe\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\ProjectsCPP\TicTacToe\GameEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProjectsCPP\TicTacToe\Listener.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProjectsCPP\TicTacToe\Painter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\ProjectsCPP\TicTacToe\CMakeLists.txt" />

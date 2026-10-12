@@ -63,7 +63,6 @@ events:
         - "C:\\Users\\after\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\after\\AppData\\Local\\Unity\\bin"
         - "C:\\Users\\after\\.dotnet\\tools"
-        - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\PrivateAssemblies\\runtimes\\win-x64\\native"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
@@ -94,7 +93,7 @@ events:
       The output was:
       0
       MSBuild version 18.10.1-1.26427.6+3cd27c13e for .NET Framework
-      Build started 10/5/2026 3:38:51 AM.
+      Build started 10/12/2026 2:41:18 PM.
       
       Project "C:\\ProjectsCPP\\TicTacToe\\build\\CMakeFiles\\4.3.1-msvc1\\CompilerIdC\\CompilerIdC.vcxproj" on node 1 (default targets).
       PrepareForBuild:
@@ -123,7 +122,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:00.63
+      Time Elapsed 00:00:00.36
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -184,7 +183,6 @@ events:
       - "C:/Users/after/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/after/AppData/Local/Unity/bin/"
       - "C:/Users/after/.dotnet/tools/"
-      - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
@@ -222,7 +220,6 @@ events:
         - "C:\\Users\\after\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\after\\AppData\\Local\\Unity\\bin"
         - "C:\\Users\\after\\.dotnet\\tools"
-        - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\PrivateAssemblies\\runtimes\\win-x64\\native"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
@@ -278,7 +275,6 @@ events:
       - "C:/Users/after/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/after/AppData/Local/Unity/bin/"
       - "C:/Users/after/.dotnet/tools/"
-      - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
@@ -371,9 +367,6 @@ events:
       - "C:/Users/after/.dotnet/tools/lld-link.com"
       - "C:/Users/after/.dotnet/tools/lld-link.exe"
       - "C:/Users/after/.dotnet/tools/lld-link"
-      - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/lld-link.com"
-      - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/lld-link.exe"
-      - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/lld-link"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/lld-link.com"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/lld-link.exe"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/lld-link"
@@ -417,7 +410,6 @@ events:
         - "C:\\Users\\after\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\after\\AppData\\Local\\Unity\\bin"
         - "C:\\Users\\after\\.dotnet\\tools"
-        - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\PrivateAssemblies\\runtimes\\win-x64\\native"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
@@ -471,7 +463,6 @@ events:
       - "C:/Users/after/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/after/AppData/Local/Unity/bin/"
       - "C:/Users/after/.dotnet/tools/"
-      - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
@@ -509,7 +500,6 @@ events:
         - "C:\\Users\\after\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\after\\AppData\\Local\\Unity\\bin"
         - "C:\\Users\\after\\.dotnet\\tools"
-        - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\PrivateAssemblies\\runtimes\\win-x64\\native"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
@@ -563,7 +553,6 @@ events:
       - "C:/Users/after/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/after/AppData/Local/Unity/bin/"
       - "C:/Users/after/.dotnet/tools/"
-      - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
@@ -631,7 +620,6 @@ events:
         - "C:\\Users\\after\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\after\\AppData\\Local\\Unity\\bin"
         - "C:\\Users\\after\\.dotnet\\tools"
-        - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\PrivateAssemblies\\runtimes\\win-x64\\native"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
@@ -685,7 +673,6 @@ events:
       - "C:/Users/after/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/after/AppData/Local/Unity/bin/"
       - "C:/Users/after/.dotnet/tools/"
-      - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
@@ -723,7 +710,6 @@ events:
         - "C:\\Users\\after\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\after\\AppData\\Local\\Unity\\bin"
         - "C:\\Users\\after\\.dotnet\\tools"
-        - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\PrivateAssemblies\\runtimes\\win-x64\\native"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
@@ -783,7 +769,6 @@ events:
         - "C:\\Users\\after\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\after\\AppData\\Local\\Unity\\bin"
         - "C:\\Users\\after\\.dotnet\\tools"
-        - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\PrivateAssemblies\\runtimes\\win-x64\\native"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
@@ -814,7 +799,7 @@ events:
       The output was:
       0
       MSBuild version 18.10.1-1.26427.6+3cd27c13e for .NET Framework
-      Build started 10/5/2026 3:38:52 AM.
+      Build started 10/12/2026 2:41:19 PM.
       
       Project "C:\\ProjectsCPP\\TicTacToe\\build\\CMakeFiles\\4.3.1-msvc1\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
       PrepareForBuild:
@@ -843,7 +828,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:00.56
+      Time Elapsed 00:00:00.40
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -904,7 +889,6 @@ events:
       - "C:/Users/after/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/after/AppData/Local/Unity/bin/"
       - "C:/Users/after/.dotnet/tools/"
-      - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
@@ -997,9 +981,6 @@ events:
       - "C:/Users/after/.dotnet/tools/lld-link.com"
       - "C:/Users/after/.dotnet/tools/lld-link.exe"
       - "C:/Users/after/.dotnet/tools/lld-link"
-      - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/lld-link.com"
-      - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/lld-link.exe"
-      - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/lld-link"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/lld-link.com"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/lld-link.exe"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/lld-link"
@@ -1043,7 +1024,6 @@ events:
         - "C:\\Users\\after\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\after\\AppData\\Local\\Unity\\bin"
         - "C:\\Users\\after\\.dotnet\\tools"
-        - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\PrivateAssemblies\\runtimes\\win-x64\\native"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
@@ -1099,7 +1079,6 @@ events:
       - "C:/Users/after/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/after/AppData/Local/Unity/bin/"
       - "C:/Users/after/.dotnet/tools/"
-      - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
@@ -1113,9 +1092,9 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/sbin/"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/"
-      - "C:/Program Files (x86)/TicTacToe/bin/"
-      - "C:/Program Files (x86)/TicTacToe/sbin/"
-      - "C:/Program Files (x86)/TicTacToe/"
+      - "C:/Program Files/TicTacToe/bin/"
+      - "C:/Program Files/TicTacToe/sbin/"
+      - "C:/Program Files/TicTacToe/"
     searched_directories:
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/bin/Hostx86/x86/rc.com"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/bin/Hostx86/x86/rc.exe"
@@ -1176,17 +1155,16 @@ events:
         - "C:\\Users\\after\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\after\\AppData\\Local\\Unity\\bin"
         - "C:\\Users\\after\\.dotnet\\tools"
-        - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\PrivateAssemblies\\runtimes\\win-x64\\native"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\vcpkg"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/TicTacToe"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files/TicTacToe"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake"
-        - "C:/Program Files (x86)/TicTacToe"
+        - "C:/Program Files/TicTacToe"
   -
     kind: "try_compile-v1"
     backtrace:
@@ -1196,8 +1174,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/ProjectsCPP/TicTacToe/build/CMakeFiles/CMakeScratch/TryCompile-56m6pd"
-      binary: "C:/ProjectsCPP/TicTacToe/build/CMakeFiles/CMakeScratch/TryCompile-56m6pd"
+      source: "C:/ProjectsCPP/TicTacToe/build/CMakeFiles/CMakeScratch/TryCompile-qmasyc"
+      binary: "C:/ProjectsCPP/TicTacToe/build/CMakeFiles/CMakeScratch/TryCompile-qmasyc"
     cmakeVariables:
       CMAKE_CXX_STDLIB_MODULES_JSON: ""
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
@@ -1207,39 +1185,39 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/ProjectsCPP/TicTacToe/build/CMakeFiles/CMakeScratch/TryCompile-56m6pd'
+        Change Dir: 'C:/ProjectsCPP/TicTacToe/build/CMakeFiles/CMakeScratch/TryCompile-qmasyc'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_608d8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_95bcf.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
         MSBuild version 18.10.1-1.26427.6+3cd27c13e for .NET Framework
-        Build started 10/5/2026 3:38:53 AM.
+        Build started 10/12/2026 2:41:19 PM.
         
-        Project "C:\\ProjectsCPP\\TicTacToe\\build\\CMakeFiles\\CMakeScratch\\TryCompile-56m6pd\\cmTC_608d8.vcxproj" on node 1 (default targets).
+        Project "C:\\ProjectsCPP\\TicTacToe\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qmasyc\\cmTC_95bcf.vcxproj" on node 1 (default targets).
         PrepareForBuild:
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "C:\\ProjectsCPP\\TicTacToe\\build\\CMakeFiles\\CMakeScratch\\TryCompile-56m6pd\\Debug\\".
-          Creating directory "cmTC_608d8.dir\\Debug\\cmTC_608d8.tlog\\".
+          Creating directory "C:\\ProjectsCPP\\TicTacToe\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qmasyc\\Debug\\".
+          Creating directory "cmTC_95bcf.dir\\Debug\\cmTC_95bcf.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_608d8.dir\\Debug\\cmTC_608d8.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_608d8.dir\\Debug\\cmTC_608d8.tlog\\unsuccessfulbuild".
+          Creating "cmTC_95bcf.dir\\Debug\\cmTC_95bcf.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_95bcf.dir\\Debug\\cmTC_95bcf.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_608d8.dir\\Debug\\\\" /Fd"cmTC_608d8.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_95bcf.dir\\Debug\\\\" /Fd"cmTC_95bcf.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.51.36257 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_608d8.dir\\Debug\\\\" /Fd"cmTC_608d8.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_95bcf.dir\\Debug\\\\" /Fd"cmTC_95bcf.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\ProjectsCPP\\TicTacToe\\build\\CMakeFiles\\CMakeScratch\\TryCompile-56m6pd\\Debug\\cmTC_608d8.exe" /INCREMENTAL /ILK:"cmTC_608d8.dir\\Debug\\cmTC_608d8.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/ProjectsCPP/TicTacToe/build/CMakeFiles/CMakeScratch/TryCompile-56m6pd/Debug/cmTC_608d8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/ProjectsCPP/TicTacToe/build/CMakeFiles/CMakeScratch/TryCompile-56m6pd/Debug/cmTC_608d8.lib" /MACHINE:X64  /machine:x64 cmTC_608d8.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_608d8.vcxproj -> C:\\ProjectsCPP\\TicTacToe\\build\\CMakeFiles\\CMakeScratch\\TryCompile-56m6pd\\Debug\\cmTC_608d8.exe
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\ProjectsCPP\\TicTacToe\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qmasyc\\Debug\\cmTC_95bcf.exe" /INCREMENTAL /ILK:"cmTC_95bcf.dir\\Debug\\cmTC_95bcf.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/ProjectsCPP/TicTacToe/build/CMakeFiles/CMakeScratch/TryCompile-qmasyc/Debug/cmTC_95bcf.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/ProjectsCPP/TicTacToe/build/CMakeFiles/CMakeScratch/TryCompile-qmasyc/Debug/cmTC_95bcf.lib" /MACHINE:X64  /machine:x64 cmTC_95bcf.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_95bcf.vcxproj -> C:\\ProjectsCPP\\TicTacToe\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qmasyc\\Debug\\cmTC_95bcf.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_608d8.dir\\Debug\\cmTC_608d8.tlog\\unsuccessfulbuild".
-          Touching "cmTC_608d8.dir\\Debug\\cmTC_608d8.tlog\\cmTC_608d8.lastbuildstate".
-        Done Building Project "C:\\ProjectsCPP\\TicTacToe\\build\\CMakeFiles\\CMakeScratch\\TryCompile-56m6pd\\cmTC_608d8.vcxproj" (default targets).
+          Deleting file "cmTC_95bcf.dir\\Debug\\cmTC_95bcf.tlog\\unsuccessfulbuild".
+          Touching "cmTC_95bcf.dir\\Debug\\cmTC_95bcf.tlog\\cmTC_95bcf.lastbuildstate".
+        Done Building Project "C:\\ProjectsCPP\\TicTacToe\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qmasyc\\cmTC_95bcf.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:00.52
+        Time Elapsed 00:00:00.36
         
       exitCode: 0
   -
@@ -1279,8 +1257,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/ProjectsCPP/TicTacToe/build/CMakeFiles/CMakeScratch/TryCompile-oor5ie"
-      binary: "C:/ProjectsCPP/TicTacToe/build/CMakeFiles/CMakeScratch/TryCompile-oor5ie"
+      source: "C:/ProjectsCPP/TicTacToe/build/CMakeFiles/CMakeScratch/TryCompile-bffcdi"
+      binary: "C:/ProjectsCPP/TicTacToe/build/CMakeFiles/CMakeScratch/TryCompile-bffcdi"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -1291,39 +1269,39 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/ProjectsCPP/TicTacToe/build/CMakeFiles/CMakeScratch/TryCompile-oor5ie'
+        Change Dir: 'C:/ProjectsCPP/TicTacToe/build/CMakeFiles/CMakeScratch/TryCompile-bffcdi'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_a568e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_f1d18.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
         MSBuild version 18.10.1-1.26427.6+3cd27c13e for .NET Framework
-        Build started 10/5/2026 3:38:55 AM.
+        Build started 10/12/2026 2:41:20 PM.
         
-        Project "C:\\ProjectsCPP\\TicTacToe\\build\\CMakeFiles\\CMakeScratch\\TryCompile-oor5ie\\cmTC_a568e.vcxproj" on node 1 (default targets).
+        Project "C:\\ProjectsCPP\\TicTacToe\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bffcdi\\cmTC_f1d18.vcxproj" on node 1 (default targets).
         PrepareForBuild:
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "C:\\ProjectsCPP\\TicTacToe\\build\\CMakeFiles\\CMakeScratch\\TryCompile-oor5ie\\Debug\\".
-          Creating directory "cmTC_a568e.dir\\Debug\\cmTC_a568e.tlog\\".
+          Creating directory "C:\\ProjectsCPP\\TicTacToe\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bffcdi\\Debug\\".
+          Creating directory "cmTC_f1d18.dir\\Debug\\cmTC_f1d18.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_a568e.dir\\Debug\\cmTC_a568e.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_a568e.dir\\Debug\\cmTC_a568e.tlog\\unsuccessfulbuild".
+          Creating "cmTC_f1d18.dir\\Debug\\cmTC_f1d18.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_f1d18.dir\\Debug\\cmTC_f1d18.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_a568e.dir\\Debug\\\\" /Fd"cmTC_a568e.dir\\Debug\\vc145.pdb" /external:W3 /TP /errorReport:queue "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_f1d18.dir\\Debug\\\\" /Fd"cmTC_f1d18.dir\\Debug\\vc145.pdb" /external:W3 /TP /errorReport:queue "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.51.36257 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_a568e.dir\\Debug\\\\" /Fd"cmTC_a568e.dir\\Debug\\vc145.pdb" /external:W3 /TP /errorReport:queue "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_f1d18.dir\\Debug\\\\" /Fd"cmTC_f1d18.dir\\Debug\\vc145.pdb" /external:W3 /TP /errorReport:queue "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\ProjectsCPP\\TicTacToe\\build\\CMakeFiles\\CMakeScratch\\TryCompile-oor5ie\\Debug\\cmTC_a568e.exe" /INCREMENTAL /ILK:"cmTC_a568e.dir\\Debug\\cmTC_a568e.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/ProjectsCPP/TicTacToe/build/CMakeFiles/CMakeScratch/TryCompile-oor5ie/Debug/cmTC_a568e.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/ProjectsCPP/TicTacToe/build/CMakeFiles/CMakeScratch/TryCompile-oor5ie/Debug/cmTC_a568e.lib" /MACHINE:X64  /machine:x64 cmTC_a568e.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_a568e.vcxproj -> C:\\ProjectsCPP\\TicTacToe\\build\\CMakeFiles\\CMakeScratch\\TryCompile-oor5ie\\Debug\\cmTC_a568e.exe
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\ProjectsCPP\\TicTacToe\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bffcdi\\Debug\\cmTC_f1d18.exe" /INCREMENTAL /ILK:"cmTC_f1d18.dir\\Debug\\cmTC_f1d18.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/ProjectsCPP/TicTacToe/build/CMakeFiles/CMakeScratch/TryCompile-bffcdi/Debug/cmTC_f1d18.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/ProjectsCPP/TicTacToe/build/CMakeFiles/CMakeScratch/TryCompile-bffcdi/Debug/cmTC_f1d18.lib" /MACHINE:X64  /machine:x64 cmTC_f1d18.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_f1d18.vcxproj -> C:\\ProjectsCPP\\TicTacToe\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bffcdi\\Debug\\cmTC_f1d18.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_a568e.dir\\Debug\\cmTC_a568e.tlog\\unsuccessfulbuild".
-          Touching "cmTC_a568e.dir\\Debug\\cmTC_a568e.tlog\\cmTC_a568e.lastbuildstate".
-        Done Building Project "C:\\ProjectsCPP\\TicTacToe\\build\\CMakeFiles\\CMakeScratch\\TryCompile-oor5ie\\cmTC_a568e.vcxproj" (default targets).
+          Deleting file "cmTC_f1d18.dir\\Debug\\cmTC_f1d18.tlog\\unsuccessfulbuild".
+          Touching "cmTC_f1d18.dir\\Debug\\cmTC_f1d18.tlog\\cmTC_f1d18.lastbuildstate".
+        Done Building Project "C:\\ProjectsCPP\\TicTacToe\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bffcdi\\cmTC_f1d18.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:00.50
+        Time Elapsed 00:00:00.38
         
       exitCode: 0
   -

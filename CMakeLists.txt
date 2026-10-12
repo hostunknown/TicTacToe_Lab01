@@ -6,4 +6,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(TicTacToe 
     main.cpp
+    GameEngine.cpp
+    Listener.cpp
+    Painter.cpp
 )

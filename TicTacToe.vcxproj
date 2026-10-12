@@ -153,6 +153,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="prompts_lab01.md" />
+    <None Include="prompts_lab02.md" />
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>

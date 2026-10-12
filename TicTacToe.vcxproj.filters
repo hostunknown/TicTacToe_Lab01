@@ -48,6 +48,7 @@
   <ItemGroup>
     <None Include="README.md" />
     <None Include="prompts_lab01.md" />
+    <None Include="prompts_lab02.md" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="CMakeLists.txt" />

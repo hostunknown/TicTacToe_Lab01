@@ -13,6 +13,12 @@
     <ClCompile Include="C:\ProjectsCPP\TicTacToe\Painter.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\ProjectsCPP\TicTacToe\Point.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProjectsCPP\TicTacToe\Cell.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\ProjectsCPP\TicTacToe\CMakeLists.txt" />

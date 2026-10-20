@@ -9,4 +9,6 @@ add_executable(TicTacToe
     GameEngine.cpp
     Listener.cpp
     Painter.cpp
+    Point.cpp
+    Cell.cpp
 )

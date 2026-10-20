@@ -2,3 +2,5 @@ C:\ProjectsCPP\TicTacToe\main.cpp;C:\ProjectsCPP\TicTacToe\build\TicTacToe.dir\R
 C:\ProjectsCPP\TicTacToe\GameEngine.cpp;C:\ProjectsCPP\TicTacToe\build\TicTacToe.dir\Release\GameEngine.obj
 C:\ProjectsCPP\TicTacToe\Listener.cpp;C:\ProjectsCPP\TicTacToe\build\TicTacToe.dir\Release\Listener.obj
 C:\ProjectsCPP\TicTacToe\Painter.cpp;C:\ProjectsCPP\TicTacToe\build\TicTacToe.dir\Release\Painter.obj
+C:\ProjectsCPP\TicTacToe\Point.cpp;C:\ProjectsCPP\TicTacToe\build\TicTacToe.dir\Release\Point.obj
+C:\ProjectsCPP\TicTacToe\Cell.cpp;C:\ProjectsCPP\TicTacToe\build\TicTacToe.dir\Release\Cell.obj

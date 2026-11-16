@@ -1,21 +1,29 @@
 # Build directories & folders
-.vs/
 build/
+bin/
 x64/
+x86/
 Debug/
 Release/
 
-# Visual Studio user files
+# Visual Studio files & folders
+.vs/
+*.sln
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
 *.suo
 *.user
 *.aps
 *.ncb
 *.sdf
 *.cache
-*.vcxproj.user
 
 # Compiled objects and binaries
 *.obj
 *.exe
 *.o
 *.out
+*.pdb
+*.lib

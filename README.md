@@ -14,22 +14,22 @@ Jocul clasic X și O (Tic-Tac-Toe) jucat pe o tablă de 3x3. Doi jucători (X ș
 - **Painter (clasă):** Responsabil de afișarea tablei și a mesajelor în consolă.
 - **Listener (clasă):** Preluarea input-ului de la tastatură de la utilizator.
 
-
 ## Instrucțiuni de construcție și rulare (Build)
-Pentru a compila și rula proiectul manual folosind CMake:
+Pentru a compila și rula proiectul folosind CMake:
 
-USING Developer Command Prompt for VS
-
-cd ..
-
-rmdir /s /q build
-
+```bash
+# Creează și intră în directorul de build
 mkdir build
-
 cd build
 
-cmake -A x64 ..
+# Generează fișierele de proiect cu CMake
+cmake ..
 
+# Compilează proiectul
 cmake --build . --config Release
 
+# Rulează executabilul generat (pe Windows / Linux)
+# Pe Windows (Release):
 Release\TicTacToe.exe
+# Pe Linux / macOS:
+# ./TicTacToe

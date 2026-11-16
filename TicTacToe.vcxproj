@@ -139,12 +139,16 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Cell.cpp" />
     <ClCompile Include="GameEngine.cpp" />
     <ClCompile Include="Listener.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Painter.cpp" />
+    <ClCompile Include="Point.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AbstractPainter.hpp" />
+    <ClInclude Include="Cell.hpp" />
     <ClInclude Include="CellState.hpp" />
     <ClInclude Include="GameEngine.hpp" />
     <ClInclude Include="Listener.hpp" />
